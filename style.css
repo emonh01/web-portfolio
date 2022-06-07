@@ -1,0 +1,13 @@
+body{
+    font-family: 'Charis SIL', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.halh-width{
+    width: 40%;
+    float: left;
+}
